@@ -56,6 +56,10 @@ An AI-powered web app that reviews code snippets, suggests improvements, and pro
 ### [Career Compass - Career Guidance App](https://career-compass-chi.vercel.app/)
 A career recommendation system that guides students by analyzing their interests and skills using Machine Learning models.
 
+## 🏆 Holopin Badges
+
+[![An image of @dasabhijit2004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/dasabhijit2004)](https://holopin.io/@dasabhijit2004)
+
 ## 📊 GitHub Stats
 
 ![Abhijit's GitHub stats](https://github-readme-stats.vercel.app/api?username=dasabhijit2004&show_icons=true&theme=radical)
